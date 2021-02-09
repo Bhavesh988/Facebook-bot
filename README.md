@@ -15,4 +15,4 @@ Files required
   
 You are good to go now
 <br>
-Run FB.py in cmd now
+Run FB.py in cmd now using command "python FB.py"
